@@ -1,6 +1,6 @@
 ## Datos:  
   
-  1. Windows XP es 32 bit. Por lo tanto descargá cosas de 32 bits.  
+  1. Windows XP es 32 bit. Por lo tanto descargá cosas de 32 bits. Las compus nuevas son seguramente de 64 bits.
   2. [SourceForge.net](http://sourceforge.net/) tiende a ser una página web de confianza.
   3. Casi todo en esta lista es software libre.
   4. Los links son de las páginas oficiales de cada programa.
@@ -94,7 +94,7 @@ Son mejores que el utorrent por ser software libre, gratis y sin publicidades.
 ## Aplicaciones portables
 
 Las aplicaciones portables son aquellas que no requieren instalación para poder utilizarlas, simplemente las descargás y ya podés ejecutarlas. Por lo tanto pueden llevarse fácilmente en un pendrive o guardarlas en la nube (Google Drive, MEGA, One Drive, Dropbox, etc.).  
-Algunas de las listadas previamente son portables.
+Algunas de las listadas previamente son portables.  
 Existe la página [portableapps.com](https://portableapps.com) que tiene una [lista de apps](https://portableapps.com/apps) bastante generosa.
 
 ## Ninite
