@@ -1,6 +1,6 @@
 ## Datos:  
   
-  1. Windows XP es 32 bit. Por lo tanto descargá cosas de 32 bits. Las compus nuevas son seguramente de 64 bits.
+  1. Windows XP es 32 bit. Por lo tanto descargá cosas de 32 bits. Las compus nuevas (Windows 7 en adelante) son seguramente de 64 bits.
   2. [SourceForge.net](http://sourceforge.net/) tiende a ser una página web de confianza.
   3. Casi todo en esta lista es software libre.
   4. Los links son de las páginas oficiales de cada programa.
@@ -42,7 +42,7 @@ En lugar de buscar un microsoft office trucho y crackearlo que por ahi es difici
 * [PDFCreator](https://www.pdfforge.org/pdfcreator). Creador de archivos PDF. Es muy particular: te crea una impresora virtual y entonces desde _cualquier programa_ podés seleccionar imprimir y en vez de ir a la impresora, la impresión va a un archivo PDF.
 * El Adobe Reader apesta.
 
-### 8. Navegador web
+### 8. Navegadores web
 
 * [Mozillla Firefox](https://www.mozilla.org/es-AR/firefox/new/)
 * [Midori](http://midori-browser.org/download/) (Es livianito, ideal para PCs viejas.)
