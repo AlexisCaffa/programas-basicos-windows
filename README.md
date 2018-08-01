@@ -102,4 +102,5 @@ Existe la página [portableapps.com](https://portableapps.com) que tiene una [li
 [Ninite.com](https://ninite.com/) se merece un apartado. Es una página web en la cual simplemente _tildás las aplicaciones que deseás tener_ y te arma un instalador que simplemente: descargás, ejecutás y esperás. Y todas las apps seleccionadas se instalan en tu PC. Es gratuito pero no software libre.
 
 # 
-chau che los vemo'
+# 
+Chau che los vemo'
