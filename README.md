@@ -75,15 +75,15 @@ Es estilo winamp. Buscar la versión para windows.
 * [PC Equalizer GUI](http://bils7922.blogspot.com/). Simple ecualizador de sonido. Utiliza [Equalizer APO](https://sourceforge.net/projects/equalizerapo/).
 * [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/). Otro ecualizador APO.
 
-### 14. Cliente de torrents (como el utorrent)
+### 14. Cliente de torrents (como el µTorrent)
 
 * [Deluge](http://deluge-torrent.org/)  
 * [qBittorrent](https://www.qbittorrent.org/)  
-Son mejores que el utorrent por ser software libre, gratis y sin publicidades.
+Son mejores que el µTorrent por ser software libre, gratis y sin publicidades.
 
 ### 13. Herramientas varias
 
-* [Task Coach](http://www.taskcoach.org/). Para manejar lista de tareas y queaceres de la vida.
+* [Task Coach](http://www.taskcoach.org/). Para manejar lista de tareas y quehaceres de la vida.
 * [CamStudio](http://camstudio.org/). Te graba el escritorio de tu PC para hacer videos tutoriales a lo'youtuber.
 * [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/). Si tenés más de un monitor conectado a la PC podés administrar varias funcionalidades con esto.
 * [Notepad++](https://notepad-plus-plus.org/). Un bloq de notas con más funcionalidades.
