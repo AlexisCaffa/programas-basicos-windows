@@ -73,6 +73,7 @@ Es estilo winamp. Buscar la versión para windows.
 * [Ardour](https://ardour.org/). Pinta ser mas pro.
 * [Hydrogen](http://hydrogen-music.org/). Para crear secuencias de ritmos y baterías.
 * [PC Equalizer GUI](http://bils7922.blogspot.com/). Simple ecualizador de sonido. Utiliza [Equalizer APO](https://sourceforge.net/projects/equalizerapo/).
+* [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/). Otro ecualizador APO.
 
 ### 14. Cliente de torrents (como el utorrent)
 
