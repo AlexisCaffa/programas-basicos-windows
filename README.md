@@ -66,6 +66,9 @@ Es estilo winamp. Buscar la versión para windows.
 ### 12. Editores de videos
 
 * [Shotcut](https://www.shotcut.org/)
+* [OpenShot](https://www.openshot.org/es/)
+* [Kdenlive beta](https://kdenlive.org/es/descargar/)
+ 
 
 ### 13. Editores de audio
 
