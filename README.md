@@ -70,13 +70,15 @@ Es estilo winamp. Buscar la versión para windows.
 * [Kdenlive beta](https://kdenlive.org/es/descargar/)
  
 
-### 13. Editores de audio
+### 13. Editores/productores de audio
 
 * [Audacity](http://www.audacityteam.org/). Un editor re cabeza y sencillo.
 * [Ardour](https://ardour.org/). Pinta ser mas pro.
 * [Hydrogen](http://hydrogen-music.org/). Para crear secuencias de ritmos y baterías.
 * [PC Equalizer GUI](http://bils7922.blogspot.com/). Simple ecualizador de sonido. Utiliza [Equalizer APO](https://sourceforge.net/projects/equalizerapo/).
 * [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/). Otro ecualizador APO.
+* [LMMS](https://lmms.io/). Libre multiplataforma software para producir música.
+* [REAPER](https://www.reaper.fm/). Un completo productor de música.
 
 ### 14. Cliente de torrents (como el µTorrent)
 
