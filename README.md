@@ -9,7 +9,8 @@
 
 ### 1. Instalador automático de Drivers
 
-* [Snappy Driver Installer](https://sdi-tool.org/download/)  
+* [Snappy Driver Installer](https://sdi-tool.org/download/) 
+Capaz que la version vieja es la mejor: [Descargar versión vieja](https://sdi-tool.org/releases/SDI_R545.zip)
 Recomiendo descargar la versión Lite, luego actualizar la lista de índices y finalmente descargar los paquetes de drivers que sean necesarios.  
 De cualquier modo es muy bueno tener la versión completa, por ejemplo en un pendrive, y cada tanto actualizar índices, programa y paquetes.
 
