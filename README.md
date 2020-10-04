@@ -5,7 +5,17 @@
   3. Casi todo en esta lista es software libre.
   4. Los links son de las páginas oficiales de cada programa.
 
-## Lista de softwares
+## Aplicaciones portables
+
+Las aplicaciones portables son aquellas que no requieren instalación para poder utilizarlas, simplemente las descargás y ya podés ejecutarlas. Por lo tanto pueden llevarse fácilmente en un pendrive o guardarlas en la nube (Google Drive, MEGA, One Drive, Dropbox, etc.).  
+Algunas de las listadas previamente son portables.  
+Existe la página [portableapps.com](https://portableapps.com) que tiene una [lista de apps](https://portableapps.com/apps) bastante generosa.
+
+## Ninite
+
+[Ninite.com](https://ninite.com/) se merece un apartado. Es una página web en la cual simplemente _tildás las aplicaciones que deseás tener_ y te arma un instalador que simplemente: descargás, ejecutás y esperás. Y todas las apps seleccionadas se instalan en tu PC. Es gratuito pero no software libre.
+
+# Lista de softwares
 
 ### 1. Instalador automático de Drivers
 
@@ -96,16 +106,6 @@ Son mejores que el µTorrent por ser software libre, gratis y sin publicidades.
 * [WinMerge](http://winmerge.org/). Sirve para comparar archivos y carpetas y ver las modificaciones.
 * [Process Hacker](https://processhacker.sourceforge.io/). Un _monitor del sistema/administrador de tareas_ más completo.
 * [SuperTuxKart](https://supertuxkart.net/Main_Page). Un jueguito de autitos y carreritas.
-
-## Aplicaciones portables
-
-Las aplicaciones portables son aquellas que no requieren instalación para poder utilizarlas, simplemente las descargás y ya podés ejecutarlas. Por lo tanto pueden llevarse fácilmente en un pendrive o guardarlas en la nube (Google Drive, MEGA, One Drive, Dropbox, etc.).  
-Algunas de las listadas previamente son portables.  
-Existe la página [portableapps.com](https://portableapps.com) que tiene una [lista de apps](https://portableapps.com/apps) bastante generosa.
-
-## Ninite
-
-[Ninite.com](https://ninite.com/) se merece un apartado. Es una página web en la cual simplemente _tildás las aplicaciones que deseás tener_ y te arma un instalador que simplemente: descargás, ejecutás y esperás. Y todas las apps seleccionadas se instalan en tu PC. Es gratuito pero no software libre.
 
 # 
 # 
